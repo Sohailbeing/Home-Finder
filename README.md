@@ -59,14 +59,4 @@ Whether you're buying your dream home or renting, **Find Your Home** makes it si
 ---
 
 
-## 🤝 Contributing  
-Contributions are welcome! You can:  
-- Open issues for bugs or feature requests  
-- Submit PRs with fixes or improvements  
-- Suggest new features (e.g., mortgage calculator, AI-based recommendations)  
-
----
-
-## 📜 License  
-
-This project is licensed under the **MIT License**.  
+  
